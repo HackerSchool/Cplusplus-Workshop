@@ -1,0 +1,53 @@
+First of all and this will be very important:
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+After every instruction you need to add a ";" 
+So instead of 
+ola = 1
+adeus = 2
+ola + adeus 
+
+You would write
+ola = 1;
+adeus = 2;
+ola + adeus;
+
+This will probably cause a lot of issues, so everytime there's a problem please confirm the ";"
+
+
+Explain the concept of bytes 
+I'm going to explain this very quickly, i just want you to get the general idea
+So basically our computer's memory is separated in bytes, and every variable that we create occupies a number
+Of bytes
+
+int is 4 bytes
+long is 8 bytes 
+
+in Python you just say a number and it converts it to one of these types
+
+A decimal number is a float. 
+Instead of 2.1 you say 2.1f
+
+Double is a "long" float, you also use 2.1f to represent this
+
+In terms of text there will be 2 ways to represent them
+
+Either through a type called character
+Which represents a single character
+
+char c = 'a';
+Or a string
+string c = "ola";
+
+'' is the quote used for a character and "" is the quote used for a string
+
+char c = "o"; DOES NOT WORK!
+
+It's important to note that a string is a combination of characters
+
+
+
+Multi dimensional types:
+
+Array [ ] 
+List new List 
