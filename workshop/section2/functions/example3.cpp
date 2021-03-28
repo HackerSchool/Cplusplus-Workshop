@@ -8,6 +8,7 @@ void main() {
     //Does not work!
     //int z = printSomething();
 
+    //Which ones of these work?
     //float z = add2Floats(x,y);
     //float z = add2Floats(1f, 2f);
     //int z = add2Floats(1f, 2f);

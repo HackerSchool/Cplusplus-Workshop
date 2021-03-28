@@ -1,6 +1,29 @@
 #include <iostream>
 using namespace std;
 
+
+
+//explain for and foreach here also for of for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void main() {
     int xarray[] = {1, 2, 3};
     int yarray[3] = {1, 2, 3};
