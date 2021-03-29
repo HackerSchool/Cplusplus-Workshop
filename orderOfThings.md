@@ -1,5 +1,13 @@
 # Workshop c++
 
+- Section1 - Variaveis primitivas e input/output
+- Section2 - Variaveis complexas (pointers, arrays), memória e funções
+- Section3 - Bibliotecas e includes. Como fazer uma aplicação c++ a - sério (headers, order of things)
+- Section4 - O que é programação com objetos. Sintaxe basica de - classes
+- Section5 - Propriedades de classes, public, private, etcs. Standard operators e alguns usos
+- Section6 - File System
+- Section7 - Everything together
+
 ## Section 1
 
 - Slide 1
@@ -52,3 +60,8 @@
 - Define checkpoints and checkpoint structure (a lot of checkpoints or just one?)
   
 ## Section 3
+
+- Understand `libraries`
+- Understand `declaring functions`
+- Understand `includes`
+  

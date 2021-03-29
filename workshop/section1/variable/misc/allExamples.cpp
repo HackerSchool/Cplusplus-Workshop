@@ -2,6 +2,11 @@
 using namespace std;
 
 void main() {
+    char c = '1';
+
+    //this does not work!
+    //char c2 = "1";
+
     bool algo = true;
     bool outraCoisa = false;
 
