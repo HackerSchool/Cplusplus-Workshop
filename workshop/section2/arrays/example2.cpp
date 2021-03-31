@@ -22,9 +22,9 @@ using namespace std;
 
 
 
+void myFunction();
 
-
-void main() {
+int main() {
     int xarray[] = {1, 2, 3};
     int yarray[3] = {1, 2, 3};
 
@@ -45,6 +45,8 @@ void main() {
 
     cout << yarray << endl;
     cout << yarray[1] << endl;
+
+    return 0;
 }
 
 void myFunction() {

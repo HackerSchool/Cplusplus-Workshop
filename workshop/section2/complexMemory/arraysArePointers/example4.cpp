@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+void myFunction(int* xPointer);
+void myFunction2(int xPointer[]);
+void myFunction3(int& xRef);
+
 int main() {
     int xArray[] = {1, 2, 3};
     

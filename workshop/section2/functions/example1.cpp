@@ -1,8 +1,12 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+void myFunction();
+
+int main() {
     myFunction();
+
+    return 0;
 }
 
 void myFunction() {

@@ -2,7 +2,11 @@
 using namespace std;
 
 int z = 5;
-void main() {
+
+int myFunction(int x);
+void otherFunction();
+
+int main() {
     int x = 1;
     int y = 1;
 
@@ -21,6 +25,8 @@ void main() {
     otherFunction();
     
     cout << "My Z is: " << z << endl;
+
+    return 0;
 }
 
 //even if it returns something nothing

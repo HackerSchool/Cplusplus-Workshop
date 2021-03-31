@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+void myFunction(int& aRef);
+
 int main() {
     int x = 5;
     int &aRef = x;

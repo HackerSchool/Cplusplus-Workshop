@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+void printSomething();
+int myFunction();
+int add2Numbers(int myX, int myY);
+float add2Floats(float myX, float myY);
+
+int main() {
     int x = myFunction();
     int y = add2Numbers(x, myFunction());
 
@@ -16,6 +21,8 @@ void main() {
 
     cout << "My X is: " << x << endl;
     cout << "My Y is: " << y << endl;
+
+    return 0;
 }
 
 void printSomething() {

@@ -1,9 +1,13 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int myFunction();
+
+int main() {
     int x = myFunction();
     cout << "My X is: " << x << endl;
+
+    return 0;
 }
 
 int myFunction() {
