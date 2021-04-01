@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    char answer = 'a';
+    char answer;
 
     while (answer != 'y' && answer != 'n'){           //this is a while loop
         cout << "Would you like to continue? (y/n) "; //the program will only move on from this loop if answer is either equal to 'y' or 'n'
