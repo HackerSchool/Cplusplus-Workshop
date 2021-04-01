@@ -4,9 +4,9 @@
 - Section2 - Variaveis complexas (pointers, arrays), memória e funções
 - Section3 - Bibliotecas e includes. Como fazer uma aplicação c++ a - sério (headers, order of things)
 - Section4 - O que é programação com objetos. Sintaxe basica de - classes
-- Section5 - Propriedades de classes, public, private, etcs. Standard operators e alguns usos
-- Section6 - File System
-- Section7 - Everything together
+- Section4 too - Propriedades de classes, public, private, etcs. Standard operators e alguns usos
+- Section5 - File System
+- Section6 - Everything together
 
 ## Section 1
 
@@ -64,4 +64,12 @@
 - Understand `libraries`
 - Understand `declaring functions`
 - Understand `includes`
+  
+## Section 4
+
+(Mostly ppt work)
+
+- Understand `basicStructs`
+- Understand `classes/structToClass`
+- Understand `classes/normal`
   
