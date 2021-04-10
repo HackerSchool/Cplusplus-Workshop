@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int main() {
     char c = '1';
 
     //this does not work!
@@ -35,4 +35,6 @@ void main() {
     if(y) {
         cout << "o y deu: " << y << endl;
     }
+
+    return 0;
 }

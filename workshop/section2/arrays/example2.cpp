@@ -11,5 +11,7 @@ int main () {
     // how to access?
     table[0][1] = 8.9; // acess to the second column of the first line
 
+    cout << table[0][1] << endl;
+
     return 0;
 }

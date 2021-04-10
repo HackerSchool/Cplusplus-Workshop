@@ -3,10 +3,12 @@ using namespace std;
 
 int main() {
 
-    int arr[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
-
-    for (int x : arr) //this is a foreach loop  
-        cout << x << " "; // it will loop through all of the contents in arr
+    int arr[10] = {50, 1, 2, 3, 40, 5, 6, 7, 8, 9};
+    
+    //this is a foreach loop  
+    for (int x : arr) 
+        // it will loop through all of the contents in arr
+        cout << x << " "; 
 
     cout << endl;
 

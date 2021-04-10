@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int main() {
     int var1 = 2147483647;
     int var2 = var1 + 1;
 
@@ -12,4 +12,6 @@ void main() {
     cout << "var2: " << var2 << endl;
     cout << "var3: " << var3 << endl;
     cout << "var4: " << var4 << endl;
+
+    return 0;
 }

@@ -1,5 +1,5 @@
 
-void main() {
+int main() {
     int var1 = 1; 
     long int var2 = 2;
     short int var3 = 3;
@@ -15,5 +15,7 @@ void main() {
 
     //apesar de nao termos (int)
     //ele converte o float para int automaticamente
-    int var7 = 5.0f; 
+    int var9 = 5.0f; 
+
+    return 0;
 }
