@@ -36,7 +36,8 @@
 
 ## Section 2
 
-- Understand `arrays/example1.cpp`
+- Understand `arrays`
+- Understand `loops`
 - Slide 12
 - Understand `funtions all examples`
 - Slide 13

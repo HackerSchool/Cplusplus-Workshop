@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
 
-//explain for and foreach here also for of for
-
 void myFunction();
 
+//review
 int main() {
-    int array[] = {1, 2, 3};
+    // so the array should be initialized with the same value
+    int size = 3;
+    int array[size] = {1, 2, 3};
 
     // begining with the while...
     // double each element of the array
@@ -34,16 +35,13 @@ int main() {
     cout << endl;
 
     // hard-code the length of the array is a bad idea!
-    // we can compute the number of elements of an array in a very easy way
-    int size = sizeof(array)/sizeof(array[0]);
-
     for (int i = 0; i < size; i++) {
         cout << array[i] << " ";
     }
 
     cout << endl;
 
-    // and what about an easier way to iterate an array? foreach!
+    // easier way to iterate an array? foreach!
     for (int element: array) {
         cout << element << " ";
     }
@@ -63,7 +61,7 @@ int main() {
 
     cout << endl;
 
-    // we can write each position thi way:
+    // we can write each position this way:
     for (int& element: array) {
         element = 5;
     }

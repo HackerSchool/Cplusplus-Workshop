@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void main() {
+int main() {
     cout << "5";
+    
+    return 0;
 }
