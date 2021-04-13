@@ -37,7 +37,7 @@ int main() {
 
     result = result / n;
 
-    cout << result << endl;
+    cout << "The average is: " << result << endl;
 
     return 0;
 }

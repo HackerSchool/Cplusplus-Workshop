@@ -53,14 +53,7 @@
 - Understand `complexMemory/arraysArePointers`
 - Understand `complexMemory/pointersOfPointer`
 
-### Missing
-
-- Array for each, normal for, etcs
-- Multidimensional arrays
-- Change all main functions to int
-- Define checkpoints and checkpoint structure (a lot of checkpoints or just one?)
-  
-## Section 3
+## Section 3 (Skip for now)
 
 - Understand `libraries`
 - Understand `declaring functions`
@@ -73,4 +66,6 @@
 - Understand `basicStructs`
 - Understand `classes/structToClass`
 - Understand `classes/normal`
+- Understand `classes/operators`
+- Understand `classes/polymorph` (todo)
   

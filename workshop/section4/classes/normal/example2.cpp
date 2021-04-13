@@ -6,6 +6,14 @@
 
 using namespace std;
 
+class Cat;
+
+void printACat1(Cat& gato);
+
+void printACat2(Cat& gato);
+
+void printACat3(Cat& gato);
+
 class Cat {
     public:
 

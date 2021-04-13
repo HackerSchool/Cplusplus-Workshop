@@ -21,14 +21,14 @@ int main() {
     int x = 1;
     double y = 3.4f;
     int z = -2;
-    string inputString;
-    cin >> inputString;
+    string manuelAlexandre;
+    cin >> manuelAlexandre;
 
-    cout << inputString + " x: {" << x << "}" << endl;
-    cout << inputString + " y: {" << y << "}" << endl;
-    cout << inputString + " z: {" << z << "}" << endl;
+    cout << manuelAlexandre + " x: {" << x << "}" << endl;
+    cout << manuelAlexandre + " y: {" << y << "}" << endl;
+    cout << manuelAlexandre + " z: {" << z << "}" << endl;
 
-    cout << inputString + " x + y + z: {" << x + y + z << "}" << endl;
+    cout << manuelAlexandre + " x + y + z: {" << x + y + z << "}" << endl;
 
     /*
     

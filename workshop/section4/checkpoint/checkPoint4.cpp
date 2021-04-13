@@ -20,4 +20,15 @@ Use the last program you made and:
 Convert the graph and point to classes
 Inside Graph, the points and the name should be private 
 
+Use the last program you made and:
+Add an equality operator (==) (not a method) to the class Graph
+Add an equality operator (==) (not a method) to the class Point
+Compare 2 equal graphs.
+Compare 2 equal points.
+Operator == is:
+
+bool operator ==(const CLASSNAMEGOESHERE& other) const {
+    //code
+}
+
 */

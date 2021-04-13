@@ -8,7 +8,7 @@ int main() {
     //char c2 = "1";
 
     bool algo = true;
-    bool outraCoisa = false;
+    bool outraCoisa = true;
 
     if(algo) {
         cout << "o algo deu: " << algo << endl;

@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void myFunction();
-
 //review
 int main() {
     // so the array should be initialized with the same value
@@ -73,8 +71,4 @@ int main() {
     cout << endl;
     
     return 0;
-}
-
-void myFunction() {
-    cout << "I work" << endl;
 }

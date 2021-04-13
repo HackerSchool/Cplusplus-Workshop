@@ -22,8 +22,10 @@ int main() {
     int matrix[size][size];
 
     cout << "Insert matrix: \n";
+
     for(int i = 0; i < size; i++) {
         cout << "Line " << i << endl;
+        
         for(int k = 0; k < size; k++) {
             cin >> matrix[i][k];
         }

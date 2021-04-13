@@ -1,18 +1,39 @@
 /*
 
-Write a function 
-void set_head (int array[], int new_head);
+Complete the following code:
+
+
+*/
+#include <iostream>
+using namespace std;
+
+void set_head(int array[], int new_head);
+
+int main() {
+    int size = 3;
+    int array[size] = {1, 2, 3};
+    set_head(array,4);
+
+    cout << "array is now: " << endl;
+    /* print array */
+    
+    return 0;
+}
+
+/*
+
+Write the function 
+void set_head (int array[], int new_head)
 
 That receives an array and changes the first element.
 You cannot use the [] operator. 
 array[0] is then not possible
 
 Hint: use pointers!
+Hint: 4, 2, 3, is not a valid solution!
 
 Example:
-int array[] = {1, 2, 3};
-set_head(array, 4);
-
-array now is 4, 2, 3
+array is now: 
+4, 2, 3
 
 */

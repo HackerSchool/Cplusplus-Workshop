@@ -11,3 +11,21 @@ valor x + y + z: {x + y + z}
 "
 
 */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 1;
+    float y = 3.4f;
+    int z = -2;
+
+
+    cout << "valor x: " << x << endl;
+    cout << "valor y: " << y << endl;
+    cout << "valor z: " << z << endl;
+
+    cout << "valor x + y + z: " << x + y + z << endl;
+
+    return 0;
+}

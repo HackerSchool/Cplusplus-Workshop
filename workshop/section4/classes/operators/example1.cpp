@@ -91,7 +91,7 @@ int main() {
         cout << "hi" << endl;
     }
 
-    gato1++;
+    gato1.incrementAge();
     cout << gato1 << endl;
     
     return 0;

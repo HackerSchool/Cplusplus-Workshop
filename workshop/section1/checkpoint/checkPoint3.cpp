@@ -13,3 +13,23 @@ print the following and complete with the respective values
 "
 
 */
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int x = 1;
+    float y = 3.4f;
+    int z = -2;
+
+    string inputString;
+    cin >> inputString;
+
+    cout << inputString << x << endl;
+    cout << inputString << y << endl;
+    cout << inputString << z << endl;
+
+    cout << inputString << x + y + z << endl;
+
+    return 0;
+}

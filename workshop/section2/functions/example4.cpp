@@ -28,6 +28,6 @@ void printThings(int myX, int myY, int myZ) {
     cout << myX << myY << myZ << endl;
 }
 
-int add2Numbers(int myX, int myY = 1) {
+int add2Numbers(int myX, int myY) {
     return myX + myY;
 }

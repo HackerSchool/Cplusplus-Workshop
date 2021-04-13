@@ -25,9 +25,9 @@ void printFirstPositionArray(int xArray[]) {
 }
 
 void changeArrayContent1(int xArray[]) {
-    xArray[0] = 1;
+    xArray[0] = 0;
 }
 
 void changeArrayContent2(int xArray[5]) {
-    xArray[0] = 1;
+    xArray[0] = 0;
 }
