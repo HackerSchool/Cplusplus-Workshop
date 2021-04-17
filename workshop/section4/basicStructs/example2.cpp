@@ -17,8 +17,6 @@ struct Cat {
 int main() {
     //no longer works
     //Cat gato = Cat();
-    //gato.name = "1";
-    //gato.age = 32;
 
     Cat gato = Cat("1",32);
 

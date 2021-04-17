@@ -61,11 +61,9 @@
   
 ## Section 4
 
-(Mostly ppt work)
-
 - Understand `basicStructs`
 - Understand `classes/structToClass`
 - Understand `classes/normal`
+- Skip `classes/normal/example3`
 - Understand `classes/operators`
-- Understand `classes/polymorph` (todo)
   

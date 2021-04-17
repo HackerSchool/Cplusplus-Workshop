@@ -53,22 +53,22 @@ class Cat {
 
 int main() {
     Cat gato1 = Cat();
-    Cat gato2 = Cat("2");
-    Cat gato3 = Cat("3",-1);
+    Cat gato2 = Cat("Maria");
+    Cat gato3 = Cat("José",-1);
 
     gato1.printCat();
     gato2.printCat();
     gato3.printCat();
-    gato1.setName("1");
-    gato2.setName("1234");
+    gato2.setName("1");
+    gato3.setName("1234");
 
     cout << "versus" << endl;
 
     cout << endl;
 
-    printACat1(gato1);
-    printACat2(gato1);
-    printACat3(gato1);
+    printACat1(gato2);
+    printACat2(gato2);
+    printACat3(gato2);
 
     gato1.name = "1";
     gato2.name = "1234";
